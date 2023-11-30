@@ -1,0 +1,14 @@
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\obj\Debug\net8.0\AdaptorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\obj\Debug\net8.0\AdaptorPattern.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\obj\Debug\net8.0\AdaptorPattern.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\obj\Debug\net8.0\AdaptorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\bin\Debug\net8.0\AdaptorPattern.exe
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\bin\Debug\net8.0\AdaptorPattern.deps.json
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\bin\Debug\net8.0\AdaptorPattern.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\bin\Debug\net8.0\AdaptorPattern.dll
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\bin\Debug\net8.0\AdaptorPattern.pdb
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\obj\Debug\net8.0\AdaptorPattern.dll
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\obj\Debug\net8.0\refint\AdaptorPattern.dll
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\obj\Debug\net8.0\AdaptorPattern.pdb
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\obj\Debug\net8.0\AdaptorPattern.genruntimeconfig.cache
+C:\Users\Mahmoud\Desktop\DesignPattern\AdaptorPattern\obj\Debug\net8.0\ref\AdaptorPattern.dll
