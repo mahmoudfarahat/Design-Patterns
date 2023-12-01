@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahmoud\\Desktop\\DesignPattern\\AdaptorPattern\\AdaptorPattern.csproj": {}
+    "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\AdaptorPattern\\AdaptorPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahmoud\\Desktop\\DesignPattern\\AdaptorPattern\\AdaptorPattern.csproj": {
+    "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\AdaptorPattern\\AdaptorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\DesignPattern\\AdaptorPattern\\AdaptorPattern.csproj",
+        "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\AdaptorPattern\\AdaptorPattern.csproj",
         "projectName": "AdaptorPattern",
-        "projectPath": "C:\\Users\\Mahmoud\\Desktop\\DesignPattern\\AdaptorPattern\\AdaptorPattern.csproj",
+        "projectPath": "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\AdaptorPattern\\AdaptorPattern.csproj",
         "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahmoud\\Desktop\\DesignPattern\\AdaptorPattern\\obj\\",
+        "outputPath": "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\AdaptorPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

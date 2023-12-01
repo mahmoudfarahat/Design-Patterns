@@ -1,4 +1,5 @@
-﻿using PayrollSystem.Core;
+﻿using AdaptorPattern.Core;
+using PayrollSystem.Core;
 using System.Text;
 using System.Text.Json;
 
@@ -16,7 +17,8 @@ namespace AdaptorPattern
             foreach (var employee in employees)
             {
                 var request = new HttpRequestMessage(HttpMethod.Post, payrollCalculatorUrl);
-                request.Content = new StringContent(JsonSerializer.Serialize(employee),Encoding.UTF8,"application/json");
+                var employeeAdapter = new PayrollSystemEmployeeAdapter(employee);
+                request.Content = new StringContent(JsonSerializer.Serialize(employeeAdapter),Encoding.UTF8,"application/json");
 
                 var response = await client.SendAsync(request);
                 var respnoseJson = await response.Content.ReadAsStringAsync();
