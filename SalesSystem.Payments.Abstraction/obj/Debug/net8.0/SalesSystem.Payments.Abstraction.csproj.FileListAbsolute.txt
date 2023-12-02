@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\bin\Debug\net8.0\SalesSystem.Payments.Abstraction.exe
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\bin\Debug\net8.0\SalesSystem.Payments.Abstraction.deps.json
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\bin\Debug\net8.0\SalesSystem.Payments.Abstraction.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\bin\Debug\net8.0\SalesSystem.Payments.Abstraction.dll
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\bin\Debug\net8.0\SalesSystem.Payments.Abstraction.pdb
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\obj\Debug\net8.0\SalesSystem.Payments.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\obj\Debug\net8.0\SalesSystem.Payments.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\obj\Debug\net8.0\SalesSystem.Payments.Abstraction.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\obj\Debug\net8.0\SalesSystem.Payments.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\obj\Debug\net8.0\SalesSystem.Payments.Abstraction.sourcelink.json
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\obj\Debug\net8.0\SalesSystem.Payments.Abstraction.dll
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\obj\Debug\net8.0\refint\SalesSystem.Payments.Abstraction.dll
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\obj\Debug\net8.0\SalesSystem.Payments.Abstraction.pdb
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\obj\Debug\net8.0\SalesSystem.Payments.Abstraction.genruntimeconfig.cache
+C:\Users\Mahmoud\Desktop\Design-Patterns\SalesSystem.Payments.Abstraction\obj\Debug\net8.0\ref\SalesSystem.Payments.Abstraction.dll

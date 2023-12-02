@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FactoryMethodPattern/1.0.0": {
+        "dependencies": {
+          "SalesSystem.Payments.Abstraction": "1.0.0"
+        },
+        "runtime": {
+          "FactoryMethodPattern.dll": {}
+        }
+      },
+      "SalesSystem.Payments.Abstraction/1.0.0": {
+        "runtime": {
+          "SalesSystem.Payments.Abstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryMethodPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SalesSystem.Payments.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
