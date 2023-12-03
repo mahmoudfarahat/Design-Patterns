@@ -1,13 +1,15 @@
-﻿using System;
+﻿using CommadandMementoPattern.Core.Memento;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CommadPattern.Core
+namespace CommadandMementoPattern.Core
 {
     internal class Order
     {
+        // orignator = object which i keep its state 
         public int Id { get; } = Random.Shared.Next(0, 1000);
 
         // domain driven
@@ -31,6 +33,18 @@ namespace CommadPattern.Core
         internal   void RemoveProductAt(int index)
         {
             _lines.RemoveAt(index);
+        }
+
+
+        public OrderMemento SaveStateToMemento()
+        {
+            return new OrderMemento(_lines.ToArray());
+        }
+
+
+        public void RestoreStateFromMemento(OrderMemento memento)
+        {
+            _lines = new List<OrderLine>(memento.GetLines());
         }
     }
 }

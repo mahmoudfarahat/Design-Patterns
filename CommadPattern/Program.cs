@@ -1,7 +1,8 @@
-﻿using CommadPattern.Core;
-using CommadPattern.Core.Commands;
+﻿using CommadandMementoPattern.Core;
+using CommadandMementoPattern.Core.Commands;
+using CommadandMementoPattern.Core.Memento;
 
-namespace CommadPattern
+namespace CommadandMementoPattern
 {
     internal class Program
     {
@@ -16,7 +17,7 @@ namespace CommadPattern
             {
                 var order = new Order();
                 var invoker = new CommandInvoker();
-
+                var careTake = new Caretaker();
                 while (true) {
                     Console.WriteLine("Select one of the below commands:");
                     Console.WriteLine("\t1 Add Laptop");
@@ -28,6 +29,9 @@ namespace CommadPattern
                     Console.WriteLine("\t6 Undo");
                     Console.WriteLine("\t7 Redo");
 
+                    Console.WriteLine("\t8 Save Memento");
+                    Console.WriteLine("\t9 Restore Memento");
+
                     Console.WriteLine("\t0 Process ");
 
                     var commandId = int.Parse(Console.ReadLine());
@@ -38,7 +42,7 @@ namespace CommadPattern
                         //selectedProduct = laptop;
                         //invoker.AddCommand(new AddProductCommand(order, laptop, 1));
                         //invoker.AddCommand(new AddStockCommand(laptop, -1));
-
+                        
                         invoker.ExecuteCommand(new AddProductCommand(order, laptop, 1));
                         invoker.ExecuteCommand(new AddStockCommand(laptop, -1));
                     }
@@ -89,6 +93,24 @@ namespace CommadPattern
                         Console.ForegroundColor = ConsoleColor.White;
 
                     }
+                    else if (commandId == 8)
+                    {
+                        var index = careTake.AddMemento(order.SaveStateToMemento());                       
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine($"Memento saved at index #{index}");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        PrintOrderDetails(order);
+
+                    }
+                    else if (commandId == 9)
+                    {
+                        Console.Write("Enter Memento Index: ");
+                        var mementIndex = int.Parse(Console.ReadLine());
+                        var memento = careTake.GetMemento(mementIndex);
+                        order.RestoreStateFromMemento(memento);
+                        PrintOrderDetails(order);
+
+                    }
                     else if (commandId == 0)
                     {
                         //invoker.ExcludeCommands();
@@ -104,8 +126,9 @@ namespace CommadPattern
                     //order.AddProduct(selectedProduct, 1);
 
                     //selectedProduct.AddStock(-1);
+                    Console.WriteLine("--------------------------------------------");
+
                 }
-                Console.WriteLine("--------------------------------------------");
             }
 
             void ReolayMacro()
@@ -130,6 +153,14 @@ namespace CommadPattern
                     invoker.ExcludeCommands();
              
 
+            }
+            void PrintOrderDetails(Order order)
+            {
+                var totalQuantity = order.Lines.Sum(x => x.Quantity);
+                var totalPrice = order.Lines.Sum(x => x.Quantity * x.UnitPrice);
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"Order #{order.Id} created: Quantity = {totalQuantity} , tota; Price = {totalPrice}");
+                Console.ForegroundColor = ConsoleColor.White;
             }
         }
 

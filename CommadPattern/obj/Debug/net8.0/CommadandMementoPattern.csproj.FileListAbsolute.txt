@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\bin\Debug\net8.0\CommadandMementoPattern.exe
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\bin\Debug\net8.0\CommadandMementoPattern.deps.json
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\bin\Debug\net8.0\CommadandMementoPattern.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\bin\Debug\net8.0\CommadandMementoPattern.dll
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\bin\Debug\net8.0\CommadandMementoPattern.pdb
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\obj\Debug\net8.0\CommadandMementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\obj\Debug\net8.0\CommadandMementoPattern.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\obj\Debug\net8.0\CommadandMementoPattern.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\obj\Debug\net8.0\CommadandMementoPattern.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\obj\Debug\net8.0\CommadandMementoPattern.sourcelink.json
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\obj\Debug\net8.0\CommadandMementoPattern.dll
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\obj\Debug\net8.0\refint\CommadandMementoPattern.dll
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\obj\Debug\net8.0\CommadandMementoPattern.pdb
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\obj\Debug\net8.0\CommadandMementoPattern.genruntimeconfig.cache
+C:\Users\Mahmoud\Desktop\Design-Patterns\CommadPattern\obj\Debug\net8.0\ref\CommadandMementoPattern.dll

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CommadPattern.Core.Commands
+namespace CommadandMementoPattern.Core.Commands
 {
     public class Macro
     {
