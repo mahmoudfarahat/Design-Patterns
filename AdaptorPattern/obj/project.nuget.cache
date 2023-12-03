@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VEQ8gFpzmgGvKB8vPCJtqPMvwJVv9S8BYy648MAe4vBpF8G3nV/Cmuk2RJMhWwQMGRJkPAtGRWaPRXWTO3lqQA==",
+  "dgSpecHash": "6SW5RNXIIBWU8nNdt7tybL8syMpkQOTNwedcHfHEEOtfBY+m7WVkrw892WXufKcElATDgKI6tuW/qzVwEato8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\AdaptorPattern\\AdaptorPattern.csproj",
+  "projectFilePath": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\AdaptorPattern\\AdaptorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

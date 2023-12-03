@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\StatePattern\\StatePattern.csproj": {}
+    "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\CommadPattern\\CommadandMementoPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\StatePattern\\StatePattern.csproj": {
+    "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\CommadPattern\\CommadandMementoPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\StatePattern\\StatePattern.csproj",
-        "projectName": "StatePattern",
-        "projectPath": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\StatePattern\\StatePattern.csproj",
+        "projectUniqueName": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\CommadPattern\\CommadandMementoPattern.csproj",
+        "projectName": "CommadandMementoPattern",
+        "projectPath": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\CommadPattern\\CommadandMementoPattern.csproj",
         "packagesPath": "C:\\Users\\mahmoud.farahat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\StatePattern\\obj\\",
+        "outputPath": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\CommadPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

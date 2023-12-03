@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m3mBRhsEV+7TPf06WHL2qMqVOwDCEtKX+WjbVXz/F9TqjLnbFQppJD2L4DyB19EvEdwxcmzHI/c3Q3kcmATgsQ==",
+  "dgSpecHash": "oelYcQbDjZWPIV3VkrXRXKK29FmT0rSm833sVfE9lmGC/tmI/fVT10+UM3hZZJBDItYFq0d9EsTfxx3G7xU/Sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\SingletonPattern\\SingletonPattern.csproj",
+  "projectFilePath": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\SingletonPattern\\SingletonPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
