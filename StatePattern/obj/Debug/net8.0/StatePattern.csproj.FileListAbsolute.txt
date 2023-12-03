@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\obj\Debug\net8.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\obj\Debug\net8.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\obj\Debug\net8.0\StatePattern.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\obj\Debug\net8.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\obj\Debug\net8.0\StatePattern.sourcelink.json
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\bin\Debug\net8.0\StatePattern.exe
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\bin\Debug\net8.0\StatePattern.deps.json
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\bin\Debug\net8.0\StatePattern.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\bin\Debug\net8.0\StatePattern.dll
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\bin\Debug\net8.0\StatePattern.pdb
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\obj\Debug\net8.0\StatePattern.dll
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\obj\Debug\net8.0\refint\StatePattern.dll
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\obj\Debug\net8.0\StatePattern.pdb
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\obj\Debug\net8.0\StatePattern.genruntimeconfig.cache
+C:\Users\Mahmoud\Desktop\Design-Patterns\StatePattern\obj\Debug\net8.0\ref\StatePattern.dll
