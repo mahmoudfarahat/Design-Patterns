@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ekIrIOEpO9kCdr533j8vwNCsBbMU3+NPqdiT32/8PTT2+o4rA1JWvI06Vt9N7IRH+NM+VPGUYBcyIBE5Ui+5Uw==",
+  "dgSpecHash": "r10Bd0eQC1O5s6OsbCdJKA3j/C2quNN+g3L3yGViU21G1jdE+6/KhEHnb2HihD3quY1snjkUTcC/YQqOAx5ekQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\SalesSystem.Payments.Abstraction\\SalesSystem.Payments.Abstraction.csproj",
+  "projectFilePath": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\SalesSystem.Payments.Abstraction\\SalesSystem.Payments.Abstraction.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

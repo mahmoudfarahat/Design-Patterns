@@ -1,34 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\StatePattern\\StatePattern.csproj": {}
+    "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\StatePattern\\StatePattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\StatePattern\\StatePattern.csproj": {
+    "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\StatePattern\\StatePattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\StatePattern\\StatePattern.csproj",
+        "projectUniqueName": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\StatePattern\\StatePattern.csproj",
         "projectName": "StatePattern",
-        "projectPath": "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\StatePattern\\StatePattern.csproj",
-        "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\StatePattern\\obj\\",
+        "projectPath": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\StatePattern\\StatePattern.csproj",
+        "packagesPath": "C:\\Users\\mahmoud.farahat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\StatePattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mahmoud.farahat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\New folder (2)\\Stimulsoft_Reports_AIO_2020.2.1_Downloadly.ir\\Stimulsoft Reports AIO 2020.2.1\\Crack\\Libs\\Reports.NetCore": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

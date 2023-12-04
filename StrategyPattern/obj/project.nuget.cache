@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yqpZI3I6GGT+v6Q3GDK0nqZ8zlJRLwN8vZLEGDzM76Aj8UonK+e64rFPY8N1iMUwYUAgWziktTaxpNhDI8qFsQ==",
+  "dgSpecHash": "nKeQ3CAZvLfppYocd6iCWjic5911LMzYh+owNf8GDfoFPfPGrfgnuwbqxzsEJtKLK6e+LS8kk8J7QjoVmTcljA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahmoud\\Desktop\\Design-Patterns\\StrategyPattern\\StrategyPattern.csproj",
+  "projectFilePath": "C:\\Users\\mahmoud.farahat\\Desktop\\DesignPattern\\DesignPattern\\StrategyPattern\\StrategyPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
